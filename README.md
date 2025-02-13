@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syntheticalab
-- 👀 I’m interested in synthetic intelligence
+
 
 
 <!---
